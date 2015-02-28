@@ -7,7 +7,7 @@ les étudiants de l'ÉTS. Elle a été lancée le 25 février 2011.
 Le projet a généré un engouement certain auprès des étudiants qui en 
 visitent maintenant la page d'accueil plus de 40 000 fois par année.
 De février 2011 à février 2015, le projet a été maintenu par son 
-instigateur [Gregory A. Lussier](https://github.com/lemieux/).
+instigateur [Gregory A. Lussier](https://github.com/lussier/).
 Aujourd'hui, il porte une licence GNU GPL et **les contributions
 sont encouragées et appréciées** via des pull requests sur repository.
 
